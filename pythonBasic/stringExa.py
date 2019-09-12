@@ -1,0 +1,11 @@
+mystr="biddut is a good boy"
+print(len(mystr))
+#print(mystr[0:20:3])
+print(mystr.endswith("boy"))
+print(mystr.count("o"))
+print(mystr.capitalize())
+print(mystr.find("is"))
+print(mystr.lower())
+print(mystr.upper())
+print(mystr.replace("is","are"))
+print(mystr.encode())

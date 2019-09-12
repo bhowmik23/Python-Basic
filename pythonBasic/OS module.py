@@ -1,0 +1,13 @@
+import os
+# print(dir(os))
+# print(os.getcwd())
+# os.chdir("C://")
+# print(os.getcwd())
+# print(os.listdir("C://"))
+# os.mkdir("This/That")
+# os.makedirs("This\That")
+# os.rename("biddut.txt", "BiddutBhowmik.txt")
+# print(os.environ.get('Path'))
+# print(os.path.join("C:/", "/harry.txt"))
+# print(os.path.exists("C://"))
+print(os.path.isfile("C://"))
